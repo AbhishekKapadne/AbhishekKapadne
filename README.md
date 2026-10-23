@@ -64,6 +64,30 @@ Small programs and exercises to strengthen my Python fundamentals.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AbhishekKapadne&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Abhishek's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekKapadne&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AbhishekKapadne&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
